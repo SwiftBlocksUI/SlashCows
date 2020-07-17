@@ -7,6 +7,9 @@ SwiftBlocksUI is a way to write interactive Slack messages and modal dialogs
 (also known as Slack "applications")
 using a SwiftUI like declarative style.
 
+Explained in blog article/tutorial: 
+[Instant “SwiftUI” Flavoured Slack Apps](http://www.alwaysrightinstitute.com/swiftblocksui/).
+
 This repository contains the SlashCows demo,
 a Slack slash command that produces ASCII Cows. Moo!
 
