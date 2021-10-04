@@ -16,9 +16,9 @@ let package = Package(
   
   dependencies: [
     .package(url: "https://github.com/SwiftBlocksUI/SwiftBlocksUI.git",
-             from: "0.8.3"),
+             from: "0.9.3"),
     .package(url: "https://github.com/AlwaysRightInstitute/cows.git",
-             from: "1.0.0")
+             from: "1.0.1")
   ],
   
   targets: [
